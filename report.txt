@@ -1,0 +1,8 @@
+STUDENT REPORT
+====================
+
+Total Students: 3
+Average Marks: 98.00
+
+Topper: shiva (99)
+Lowest: neha (97)
