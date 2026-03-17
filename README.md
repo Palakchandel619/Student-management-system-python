@@ -47,7 +47,7 @@ student_management_system/
 
 1. Clone the repository
 ```python
-git clone https://github.com/Mohnish4246/student-management-system-python.git
+git clone https://github.com/Palakchandel619/Student-management-system-python
 ```
 2. Navigate to the project folder
 ```python
